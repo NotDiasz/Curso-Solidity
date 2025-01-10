@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "__init__Btc",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myNumber",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SECTION 1/contracts/novoContrato.sol": "FirstContract"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SECTION 1/contracts/novoContrato.sol": {
+			"keccak256": "0xfc4d987bbd5fc920b5b109e5b3eb0b7334e9a65b9145e2688d3fc2b5be4012c3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c52e43a7b9a48d4b43f0224f2217d183701753be1e42ac67e68ebaa55ff24258",
+				"dweb:/ipfs/QmcRnQ7TPHguQYpgQTSP4MeDUMCYXCcaR6mS3eeZEfyyLt"
+			]
+		}
+	},
+	"version": 1
+}

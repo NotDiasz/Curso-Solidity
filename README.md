@@ -1,14 +1,14 @@
-🌟 **Bem-vindo ao meu repositório de aprendizado em Solidity!** 🌟  
+🌟 **Welcome to my Solidity Learning Repository!** 🌟  
 
-Este espaço é dedicado aos projetos e exemplos que estou desenvolvendo enquanto aprofundo meus conhecimentos sobre **contratos inteligentes** com Solidity. Aqui você encontrará:  
+This space is dedicated to the projects and examples I am developing as I deepen my knowledge of **smart contracts** with Solidity. Here you will find:  
 
-- 🔧 Exercícios práticos e desafios do curso.  
-- 📜 Contratos inteligentes aplicados a diferentes casos de uso.  
-- 🚀 Experimentações com a blockchain Ethereum e ferramentas relacionadas.  
+- 🔧 Practical exercises and course challenges.  
+- 📜 Smart contracts applied to different use cases.  
+- 🚀 Experiments with the Ethereum blockchain and related tools.  
 
-📊 **Status das Linguagens Utilizadas neste Repositório:**  
+📊 **Language Usage Status in this Repository:**  
 ![GitHub languages](https://img.shields.io/github/languages/top/NotDiasz/Curso-Solidity?style=flat&logo=github)  
-![Linguagens secundárias](https://img.shields.io/github/languages/count/NotDiasz/Curso-Solidity?style=flat&logo=github)  
+![Secondary languages](https://img.shields.io/github/languages/count/NotDiasz/Curso-Solidity?style=flat&logo=github)  
 
+💡 Feel free to explore, learn together, or contribute with suggestions and improvements! Let's build the future together! ✨
 
-💡 Fique à vontade para explorar, aprender junto ou contribuir com sugestões e melhorias! Vamos construir o futuro juntos! ✨
